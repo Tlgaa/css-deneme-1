@@ -1,0 +1,141 @@
+/* Başlıklar */
+h1{
+    display:block;
+    float: none;
+    text-align: center;
+    padding: 50px;
+    margin: auto; 
+    font-size: 100px; 
+    font-family: 'Comforter', cursive; 
+    color: red;
+}
+.ft-small {
+    display:block;
+    float: none;
+    text-align: center;
+    padding: 50px;
+    margin: auto; 
+    font-size: 50px; 
+    font-family: 'Comforter', cursive;
+    color: red; 
+
+}
+/* Paragraflar */
+.pg{
+     color: white;
+     font-size: 45px;
+     font-family: 'Comforter', cursive;
+     display:block;
+     float: none;
+     text-align: center;
+
+    
+}
+  /* Gövde */
+#bdy { 
+          background-image:url(https://cdaelektrik.com/dokumanlar/arka-plan-3.jpg);
+
+}
+#mn{
+    border:5px solid red;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: fixed;
+    overflow: hidden;
+    
+
+    
+
+}
+/* Listeler */
+ul{
+    
+    display:block;
+    float: none;
+    text-align: center;
+    list-style-position: inside;
+
+}
+.lstelemanı {
+    color: white;
+    font-family: 'Comforter', cursive;
+    font-size: 50px; 
+
+
+}
+li {
+     display: inline-block;
+     text-align: center;
+     padding: 20px;
+     margin: auto;
+}
+/* Sayfadan sayfaya geçis */
+a {
+    color: red;
+    font-family: 'Comforter', cursive;
+    font-size: 50px; 
+
+    
+}
+/* Ürünlerimiz kısmı  */
+#bdy2 {
+      background-image:url("https://i.pinimg.com/236x/ac/aa/6e/acaa6e72d3e17082014b023220af8680.jpg");
+      background-repeat:no-repeat;
+      background-size:cover;
+      background-position: fixed;
+      
+
+}
+
+/* Resimler */
+
+.img-fix {
+    
+    display:block;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    position:relative;
+    right: 500px;
+    
+}
+
+.img-paragraf {
+    color: white;
+    font-size: 35px;
+    font-family: 'Comforter', cursive;
+    display:block;
+    position: relative;
+    left: 800px;
+    bottom: 450px; 
+
+
+}
+
+#footer-prg {
+    color: white;
+    font-size: 100px;
+    font-family: 'Comforter', cursive;
+    display:block;
+    position: relative;
+    left:1000px;
+
+        
+           
+     
+}
+
+/* Hakkımız da kısmı */
+#bdy3{
+    background-image:url("https://i.pinimg.com/236x/ac/aa/6e/acaa6e72d3e17082014b023220af8680.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: fixed;
+       
+}
+
+
+
+
+
+
